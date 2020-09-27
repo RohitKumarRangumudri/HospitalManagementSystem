@@ -1,0 +1,148 @@
+*{
+	margin:auto;
+	padding:auto;
+}
+.top{
+	width:100%;
+	background-color:#00cccc !important;
+	border-bottom:2px solid #f0f0f0;
+}
+.top div{
+	width:1200px;
+	color:#fff;
+	background-color:#00cccc !important;
+	font-family:calibri;
+	padding:10px;
+	text-align:right;
+}
+
+.logo{
+	width:100%;
+	background-color:;
+	border-bottom:2px solid #f0f0f0;
+}
+.logo div{
+	width:1200px;
+	background-color:;
+	font-family:calibri;
+	padding:10px;
+	text-align:left;
+}
+.logo div table a{
+	padding:10px;
+	text-decoration:none;
+	color:gray;
+}
+.logo div table a:hover{
+	color:#428bca;
+	border-bottom:2px solid gray;
+}
+
+.middle{
+	width:100%;
+	border-bottom:2px solid #f0f0f0;
+}
+.middle div{
+	width:1200px;
+	height:400px;
+	font-family:calibri;
+        text-align:left;
+}
+.middle div p{
+	width:1000px;
+	font-weight:bold;
+	height:300px;
+	color:#00cccc;
+	opacity:5.9;
+	font-size:50px;
+	background-color:#0000;
+}
+
+.bottom{
+	width:100%;
+	background-color:;
+	border-bottom:2px solid #f0f0f0;
+}
+.bottom div{
+	width:1200px;
+	color:#fff;
+	background-color:;
+	font-family:calibri;
+	text-align:right;
+}
+.bottom div table{
+	padding-top:30px;
+	width:1100px;
+	text-align:justify;
+	color:gray;
+	font-size:20px;
+}
+
+.bottom_up{
+	width:100%;
+	background-image:url('c.jpg'); 
+	border-bottom:2px solid #f0f0f0;
+}
+.bottom_up div{
+	padding-top:20px;
+	width:1200px;
+	text-align:center;
+	font-family:calibri;
+	font-size:30px;
+	padding-bottom:20px;
+}
+.bottom_up div table{
+	padding-top:30px;
+	font-size:30px;
+	width:1100px;
+	text-align:center;
+	font-family:calibri;
+	
+}
+input[type="submit"]
+{
+	padding: 10px;
+	border-radius: 10px;
+}
+
+ input[type="submit"]:hover
+ {
+ 	background-color:#00cccc
+ }
+
+input[type="text"]{
+	padding:12px;
+	width:250px;
+}
+select{
+	padding:12px;
+	width:250px;
+}
+textarea{
+	padding:50px;
+	width:550px;
+}
+button{
+	width:550px;
+	padding:10px;
+	color:#fff;
+	font-size:20px;
+	background-color:#00cccc  !important;
+}
+
+
+.nav_down{
+	width:100%;
+	background-color:#00cccc  !important;
+	border-bottom:2px solid #f0f0f0;
+}
+.nav_down div{
+	width:1200px;
+	color:#fff;
+	background-color:#00cccc ;
+	font-family:calibri;
+	padding:10px;
+	text-align:left;
+}
+
+
